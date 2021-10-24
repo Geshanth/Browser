@@ -2,7 +2,7 @@
 Basic Browser
 
 For this python program to work, you must install PyTQ5 and PyQtWebEngine:
-"pip install PyQt5" & "pip install PyQtWebEngine"
+ - "pip install PyQt5" & "pip install PyQtWebEngine"
 
 After this you can run the browser
  
